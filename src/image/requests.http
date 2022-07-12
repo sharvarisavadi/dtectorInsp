@@ -1,0 +1,2 @@
+### get scan page 
+GET http://localhost:3000/image
